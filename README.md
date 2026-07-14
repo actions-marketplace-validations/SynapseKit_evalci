@@ -157,7 +157,7 @@ Full documentation is available at **[synapsekit.github.io/synapsekit-docs/docs/
 
 ## About
 
-EvalCI is built on [SynapseKit](https://synapsekit.github.io/synapsekit-docs/) — a Python library for building LLM applications with 34 provider integrations and a built-in evaluation framework.
+EvalCI is built on [SynapseKit](https://synapsekit.github.io/synapsekit-docs/) — an async-native Python framework for LLM applications with 34 provider integrations, RAG pipelines, agents, graph workflows, verifiable audit trails, and a built-in evaluation framework.
 
 - [Documentation](https://synapsekit.github.io/synapsekit-docs/docs/evalci/overview)
 - [SynapseKit](https://github.com/SynapseKit/SynapseKit)
